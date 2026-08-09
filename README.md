@@ -19,7 +19,8 @@ The lab focuses on endpoint monitoring, security alerting, automated response, a
 
 ## Lab Architecture
 
-![Lab Architecture](docs/integration-diagram-ELK1.png)
+
+![Lab Architecture](docs/lab-architecture.png)
 
 ## Documentation
 
