@@ -366,7 +366,7 @@ pip install requests
 
 - Name the script with prefix `custom-`.
 - **Location:** `/var/ossec/integrations/custom-slack.py`
-- script file is here [https://github.com/0xdolan/wazuh-slack-integration?tab=readme-ov-file#-step-2-create-slack-integration-script](https://github.com/0xdolan/wazuh-slack-integration?tab=readme-ov-file#-step-2-create-slack-integration-script)
+- script file is here [https://github.com/MOHAMED-MAHM0UD/wazuh-home-lab/tree/main/slack-script](https://github.com/MOHAMED-MAHM0UD/wazuh-home-lab/tree/main/slack-script)
 - and in the top of file put the webhook URL for each channel from slack api
 
 #### **Step 3: Create Shell Wrapper Script**
